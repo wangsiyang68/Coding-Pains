@@ -1,7 +1,7 @@
 # Algorithms
 A list of algorithms that a candidate must be familiar with
 
-**1. Sorting**  
+**1. Sorting**   
     1. Ordered sub-list
     2. Unordered sub-list. 
     3. Bubble Sort
