@@ -11,7 +11,7 @@ A list of algorithms that a candidate must be familiar with
     7. Comparison of efficiencies (TBC)
 
 2. Searching
-    ... Linear/Sequential Search
-    ... Binary Search
-    ... Hash Table Search (TBC)
-    ... Comparison of efficiencies (TBC)
+    1. Linear/Sequential Search
+    2. Binary Search
+    3. Hash Table Search (TBC)
+    4. Comparison of efficiencies (TBC)
