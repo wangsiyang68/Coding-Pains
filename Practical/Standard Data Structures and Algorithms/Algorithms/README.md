@@ -2,6 +2,8 @@
 A list of algorithms that a candidate must be familiar with
 
 1. Sorting
+⋅⋅1. Ordered sub-list
+⋅⋅* Unordered sub-list. 
 ..* Bubble Sort
 ... Insertion Sort
 ... Quick Sort (My favourite)
