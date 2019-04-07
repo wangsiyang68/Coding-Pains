@@ -2,13 +2,13 @@
 A list of algorithms that a candidate must be familiar with
 
 1. Sorting
-⋅⋅1. Ordered sub-list
-⋅⋅* Unordered sub-list. 
-..* Bubble Sort
-... Insertion Sort
-... Quick Sort (My favourite)
-... Merge Sort (Not required but good to know)
-... Comparison of efficiencies (TBC)
+    1. Ordered sub-list
+    2. Unordered sub-list. 
+    3. Bubble Sort
+    4. Insertion Sort
+    5. Quick Sort (My favourite)
+    6. Merge Sort (Not required but good to know)
+    7. Comparison of efficiencies (TBC)
 
 2. Searching
 ... Linear/Sequential Search
