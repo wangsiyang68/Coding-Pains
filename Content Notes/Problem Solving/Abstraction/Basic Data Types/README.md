@@ -2,7 +2,7 @@
 
 When we first encounter problems, it is useful to use models to help us make sense about it.  
 Famous models include the AD-AS Model in Macroeconomics, Quantum Physics Model, as well as the many various models of the atom that were developed over the 20th Century.  
-Abstraction is similar to these models, in the way that they provide a structure for important information pertaining to the problem to be stored and solved by manipulating it.
+Abstraction is similar to these models, in the way that they provide a structure for storing important information pertaining to the problem, as well as methods to manipulate it to solve the problem.
 
 To better explain this, imagine that we have to implement a program that allows us to play Tic-Tac-Toe.  
 One of the core questions that we have to ask ourselves, is **how are we going to represent the game?**  
