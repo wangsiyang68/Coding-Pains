@@ -10,4 +10,4 @@ There are varying levels of abstraction that we can use. Beginning from the low-
 Or perhaps we decided that we would need something that is more intuitive to work with -- such as a nested list of lists. A tuple in this case would not make much sense since it is non-immutable.  
 Or maybe there is more information besides the 'X's and 'O's that need to be stored -- what about players' names, scores and so on? In this problem, perhaps it would be more appropriate to use a high level of abstraction, like Classes to represent the game.  
 
-Through this chapter, I will attempt to explain what are the characteristics of each type of abstraction, as well as how to manipulate them.
+Through this chapter, I will attempt to explain what are the characteristics of the four basic data types, as well as the methods that allow us to manipulate information in it. There will be examples of how they are used in real-life in the next chapter, while higher levels of abstraction will be explained in the chapters following that.
