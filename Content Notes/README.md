@@ -1,3 +1,5 @@
+## Overview of the H2 Computing Syllabus
+
 1. Problem Solving
     1. Abstraction
         1. [ ] Basic Data Types (BDT)
