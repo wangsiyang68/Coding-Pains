@@ -7,6 +7,7 @@
 2. Common applications of BDT
     1. [ ] ASCII
     2. [ ] Unicode
+    3. [ ] Number Systems
 3. In built Data Structures 
     1. [ ] Array
     2. [ ] List
