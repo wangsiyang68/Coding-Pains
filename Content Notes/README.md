@@ -1,31 +1,25 @@
-## Overview of the H2 Computing Syllabus
-
 1. Problem Solving
-
-- Algorithms
-  - Sorting (Bubble/ Insertion/ Quick sort & comparison of efficiencies)
-  - Searching (Linear/ Binary/ Hash Table Search & comparison of efficiencies)
-  - Modulo (For indexing in hashtables)
-  - Parsing of file (Strictly not an algorithm, but the idea is always more or less the same)
-- Abstraction
-  - Basic Data Types (**Str**ing/**Int**eger/**Float**/**Bool**ean)
-  - Common ways to apply basic data types to store information (ASCII/ Unicode)
-  - In built Data Structures (Array/ List/ Tuple/ Dictionary)
-  - Self built Data Structures (Not limited to: Stack/ Queue/ Binary Tree. Implied knowledge of class properties when building data structures, such as: Encapsulation/ Inheritance/ Polymorphism)
-- QC (Quality Control)
-  - Error types (Syntax/ Logic/ Arithmetic/ Semantic)
-  - Testing & Debugging
-  - Data Validation Techniques, Data Validation and Verification
-  - Good programming techniques (comments, indentation, white space and meaningful names)
-  - Models to help frame thinking (Data Flow Diagrams (DFD)/ Decision Table/ Pseudocode/ Step wise Refinement/ Data Specification/Top Down Design/ Modular Design)
-
+    1. Abstraction
+        1. [ ] Basic Data Types (BDT)
+        2. [ ] Common applications of BDT
+      	3. [ ] In built Data Structures 
+      	4. [ ] Self built Data Structures (ADT)
+    2. Algorithms
+    	  1. [ ] Sorting 
+        2. [ ] Searching 
+    	  3. [ ] Modulo  
+        4. [ ] Parsing of files (Strictly not an algorithm, but the idea is always more or less the same)
+    3. QC (Quality Control)
+        1. [ ] Error types 
+        2. [ ] Testing & Debugging
+        3. [ ] Data Validation and Verification
+        4. [ ] Good programming techniques 
+        5. [ ] Models to help frame thinking
+        
 2. Interacting with everything but humans
-
-- Networking
-- Databases
-- UI
-
+    1. Networking
+    2. Databases
+    3. UI
 3. Interacting with humans
-
-- SDLC
-- Ethics
+    1. SDLC
+    2. Ethics
