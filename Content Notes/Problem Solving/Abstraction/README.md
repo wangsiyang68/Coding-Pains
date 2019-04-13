@@ -1,9 +1,9 @@
 ## Outline of Abstraction
 1. Basic Data Types (BDT)
     1. [x] **Str**ing
-    2. [ ] **Int**eger
-    3. [ ] **Float**
-    4. [ ] **Bool**ean
+    2. [x] **Int**eger
+    3. [x] **Float**
+    4. [x] **Bool**ean
 2. Common applications of BDT
     1. [ ] ASCII
     2. [ ] Unicode
