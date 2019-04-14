@@ -13,10 +13,11 @@ Arrays are like a line of numbered buckets chained to each other side by side. A
 Just like strings, the index of the first element is 0 and both have similar indexing and slicing properties. 
 
 - Interesting methods:  
-  - When you want to initialize an N amount of something in a list (i.e. an array of 6 instances of None)
+  - When you want to initialize an N amount of something in a list (i.e. an array of 6 instances of None)  
     Syntax: `[ None for x in range(6) ]`  
     General Syntax: [ something **for** dummy_variable in range(N)]  
-    OK technically NOT a method, but its something cool to show off + dont waste time and space writing dumb looking for loops
+    
+    OK technically NOT a method, but its something cool to show off + dont waste time and space writing dumb looking for-loops
       
   - When you want to add some items into the end of the list
     Syntax: my_list.append('Pikachu')
