@@ -5,6 +5,7 @@
 1. Bubble Sort
 2. Insertion Sort
 3. Quick Sort
+4. Merge Sort (Cool but not tested)
 
 **Characteristics of each sort and how do they compare with each other?**
 
