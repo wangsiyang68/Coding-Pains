@@ -1,0 +1,13 @@
+## 1.1.3 Basic Data Types: Floats
+
+- Assignment: ` pi = 3.14159 `
+
+  - Name of Class: float 
+
+- Operations:
+
+  - Again, the same as numbers in real life. However, do take note that using floats in calculation is usually not advisable, as they often return unpredictable results.
+
+- Useful methods:
+
+  Haven't been able to think of any, so I'll leave this blank for now :")
