@@ -1,0 +1,95 @@
+Possible SDLC question types can be split into **3** domains
+    1. Analysis
+    2. Development
+    3. Implementation
+    
+First and foremost:
+Understanding context
+The context of the question is of a problem faced by an organization.
+Such problems and organizations are easy to find, for example searching the top 10 industries and its companines in the world
+Look at such organizations and think from a Administrative/Paper/HR/Logistics perspective -- What are some of the problems they can face?
+
+In my contexts, I will make use of 3 companies from 3 different industries:
+
+1. Singapore Airlines -- stocktaking of aircraft, airline ticket booking system, airline check-in system
+2. DBS -- top investments, top people who owe bank money, accounting books, payroll system, interest payout system, atm system
+3. Marche -- staff scheduling systems, peformance ranking systems, food stock-taking system, cashier system, food ordering system
+------------------------------------------------------------------------------------------------------------------
+1. Analysis
+
+Feasbility study and Analysis
+Specification
+Design
+
+Q1) What are 3 methods that a system analyst can use to find out more about information?
+3 main ways to find out more info - 1) Interview, 2) Survey, 3) Observation
+Explain characteristics of the three fact-finding types:
+(expln)
+
+Therefore, 
+Interview CEO/Head of Admin/Head of HR
+Give survey for many mid-level workers
+Observe how work is done from the start point to the end point
+
+Q2) What are some of the common problems?
+Paper systems:
+lack data integrity as same information can be stored in multiple paper systems, resulting in data redundancy which promotes data disintegrity?
+lack data validation systems to prevent wrong data types from being entered
+lack data verification systems (i.e. accidentally typing in wrong password, typing in amount of money owed, 
+Other problems faced:
+Company has scaled up, cannot deal with so much data
+Improve quality/save costs by automating repetitive tasks
+Tech has become old/backward/prone to failure over a long period of time
+Q3) What are the components in the Report?
+1st half - How does the current system work and what are its problems
+2nd half - How does my new system work and why it is 1) feasible and 2) solves problems faced by old system
+
+Q3) What are the components of a specification?
+Purpose is to answer the "WHAT" of the program
+i.e. what is the program going to do, what functionalities does the program for its users? It is all rather front-end based (ie think of what the client and the potential customer of the client might use)
+In SIA, a specification for an airline ticket booking system can detail what is the booking system going to look like (user interfaces)
+In DBS, a specification for a system to view top investments could have a page detailing which category of investments to review
+In Marche, a specification for a cashier system is what are the cashier user interface, what other equipment/sensors are needed (i.e card readers)
+
+Q4) What is software design?
+Design can be separated into many types
+It is not to be confused with Documentation, which covers the same thing but it is less technical as it is meant for users
+Types of design include: 1) Hardware, 2) SOftware, 3) Usability, 4) Security and 5) Database design
+How do the different portions of the system depend on one another? (database)
+
+------------------------------------------------------------------------------------------------------------
+2) Development
+
+Documentation
+Programming
+Testing
+
+Q1) What are the components of a Documentation?
+Documentations can be split into two main groups Technical/Maintenance documentation and user documentation
+Its purpose is to provide client with materials to teach how to use software/system as intended
+For user documentation, think of those user manuals that come in the boxes of electrical appliances:
+    1. Purpose of system
+    2. Min hardware and software requirements
+    3. Installation procedure
+    4. Detailed How tos (i.e. tutorials that show example input and its expected output
+ 
+Q2) What are the types of programming paradigms?
+Top down vs Bottom up
+
+Q3) What are the types of testing and its pros and cons? (List in order pls!)
+Black and White Box Testing
+Alpha and Beta/Acceptance Testing
+Unit Testing?
+-----------------------------------------------------------------------------------------------------------------
+3) Implementation
+
+Implementation
+Maintenance
+
+1) What are the types of implementation?
+Think of it on a scale; on two extreme ends we have direct changeover (1 system) and parallel changeover (2 system).
+In the middle we have pilot testing (only on a limited section of the entire organization) and phased implementation (only on a limited section of the process)
+
+2) What are the types of maintenance?
+Preventative, Corrective, Perfective; Perfective and adaptive seem pretty similar though
+http://ecomputernotes.com/software-engineering/types-of-software-maintenance good link 
