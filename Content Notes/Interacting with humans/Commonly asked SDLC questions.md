@@ -99,4 +99,4 @@ In the middle we have pilot testing (only on a limited section of the entire org
 
 2) What are the types of maintenance?
 Preventative, Corrective, Perfective; Perfective and adaptive seem pretty similar though
-http://ecomputernotes.com/software-engineering/types-of-software-maintenance good link 
+ good link 
