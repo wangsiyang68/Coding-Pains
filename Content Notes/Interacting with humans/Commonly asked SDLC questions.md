@@ -82,11 +82,7 @@ For user documentation, think of those user manuals that come in the boxes of el
 Q2) What are the types of programming paradigms?  
 Top down vs Bottom up  
 
-Q3) What are the types of testing and its pros and cons? (List in order pls!)  
-Black and White Box Testing  
-Alpha and Beta/Acceptance Testing  
-Unit Testing?  
-Identify purpose, method  
+
 -----------------------------------------------------------------------------------------------------------------
 3) Implementation
 
@@ -99,4 +95,3 @@ In the middle we have pilot testing (only on a limited section of the entire org
 
 2) What are the types of maintenance?
 Preventative, Corrective, Perfective; Perfective and adaptive seem pretty similar though
- good link 
