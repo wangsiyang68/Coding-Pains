@@ -1,4 +1,4 @@
-#### 1. Analysis
+### 1. Analysis
 
   1. Feasbility study and Analysis
   2. Specification
@@ -13,9 +13,9 @@ Explain characteristics of the three fact-finding types:
 (expln)
 
 Therefore,  
-  *Interview CEO/Head of Admin/Head of HR  
-  *Give survey for many mid-level workers  
-  *Observe how work is done from the start point to the end point  
+  1. Interview CEO/Head of Admin/Head of HR  
+  2. Give survey for many mid-level workers  
+  3. Observe how work is done from the start point to the end point  
 
 Q2) What are some of the common problems?  
 Paper systems:  
@@ -47,38 +47,3 @@ How do the different portions of the system depend on one another? (database)
 Q6) How to check for software design? (2017)  
 
 ------------------------------------------------------------------------------------------------------------
-#### 2) Development  
-
-  1. Documentation  
-  2. Programming  
-  3. Testing  
-
-Q1) What are the components of a Documentation?  
-Documentations can be split into two main groups Technical/Maintenance documentation and user documentation  
-Its purpose is to provide client with materials to teach how to use software/system as intended  
-For user documentation, think of those user manuals that come in the boxes of electrical appliances:  
-    1. Purpose of system  
-    2. Min hardware and software requirements  
-    3. Installation procedure  
-    4. Detailed How tos (i.e. tutorials that show example input and its expected output  
- 
-Q2) What are the types of programming paradigms?  
-Top down vs Bottom up  
-
-Q3) What are the types of testing and its pros and cons? (List in order pls!)  
-Black and White Box Testing  
-Alpha and Beta/Acceptance Testing  
-Unit Testing?  
-
------------------------------------------------------------------------------------------------------------------
-#### 3) Implementation
-
-  1. Implementation  
-  2. Maintenance  
-
-1) What are the types of implementation?  
-Think of it on a scale; on two extreme ends we have direct changeover (1 system) and parallel changeover (2 system).  
-In the middle we have pilot testing (only on a limited section of the entire organization) and phased implementation (only on a limited section of the process)  
-
-2) What are the types of maintenance?  
-Preventative, Corrective, Perfective; Perfective and adaptive seem pretty similar though  
