@@ -82,6 +82,10 @@ For user documentation, think of those user manuals that come in the boxes of el
 Q2) What are the types of programming paradigms?  
 Top down vs Bottom up  
 
+Q3) What are the types of testing and its pros and cons? (List in order pls!)  
+Black and White Box Testing  
+Alpha and Beta/Acceptance Testing  
+Unit Testing?  
 
 -----------------------------------------------------------------------------------------------------------------
 3) Implementation
