@@ -1,17 +1,17 @@
 ## Overview of Operation Stepwise Refinement:
 
-papers = A Level, PJC and DHS prelim papers 2013 -2017
-while not all papers' questions have been analysed:
-    answer all questions on corresponding github page
-    if cannot think of answer:
-        refer to given and self-written notes, online resources
-        if still don't have answer:
-            add question to thought bubble
-        else:
-            add question and answer to corresponding github page
-        end if
-    end if
-end while
+papers = A Level, PJC and DHS prelim papers 2013 -2017  
+while not all papers' questions have been analysed:  
+    answer all questions on corresponding github page  
+    if cannot think of answer:  
+        refer to given and self-written notes, online resources  
+        if still don't have answer:  
+            add question to thought bubble  
+        else:  
+            add question and answer to corresponding github page  
+        end if  
+    end if  
+end while  
 
 ## Overview of the H2 Computing Syllabus
 
