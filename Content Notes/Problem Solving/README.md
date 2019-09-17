@@ -10,7 +10,7 @@
     2. [Searching](https://github.com/wangsiyang68/Coding-Pains/tree/master/Content%20Notes/Problem%20Solving/Algorithms/Searching)  
     3. Modulo  
     4. Parsing of files (Strictly not an algorithm, but the idea is always more or less the same)
-3. [QC (Quality Control)](https://github.com/wangsiyang68/Coding-Pains/tree/master/Content%20Notes/Problem%20Solving/Algorithms)  
+3. [QC (Quality Control)](https://github.com/wangsiyang68/Coding-Pains/tree/master/Content%20Notes/Problem%20Solving/QC)  
     1. Error types 
     2. Testing & Debugging
     3. Data Validation and Verification
