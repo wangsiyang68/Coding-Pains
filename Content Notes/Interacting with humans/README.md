@@ -1,8 +1,18 @@
 ### Possible SDLC question types can be split into 3 domains
-1. Analysis
-2. Development
+1. [Analysis](https://github.com/wangsiyang68/Coding-Pains/tree/master/Content%20Notes/Interacting%20with%20humans/Analysis)
+    1. [Feasibility study and analysis](https://github.com/wangsiyang68/Coding-Pains/blob/master/Content%20Notes/Interacting%20with%20humans/Analysis/FStudy%20and%20Analysis.md)  
+    2. Design  
+    3. [Documentation](https://github.com/wangsiyang68/Coding-Pains/blob/master/Content%20Notes/Interacting%20with%20humans/Analysis/Documentation.md)  
+
+2. [Development](https://github.com/wangsiyang68/Coding-Pains/tree/master/Content%20Notes/Interacting%20with%20humans/Development)  
+    1. Programming  
+    2. [Testing](https://github.com/wangsiyang68/Coding-Pains/blob/master/Content%20Notes/Interacting%20with%20humans/Development/Testing.md)  
+
 3. Implementation
-    
+    1. Implementation  
+    2. [Maintenance](https://github.com/wangsiyang68/Coding-Pains/blob/master/Content%20Notes/Interacting%20with%20humans/Maintenance.md)  
+
+
 #### First and foremost:
 ###### Understanding context
 The context of the question is of a problem faced by an organization.  
@@ -14,15 +24,3 @@ In my contexts, I will make use of 3 companies from 3 different industries:
 1. Singapore Airlines -- stocktaking of aircraft, airline ticket booking system, airline check-in system
 2. DBS -- top investments, top people who owe bank money, accounting books, payroll system, interest payout system, atm system
 3. Marche -- staff scheduling systems, peformance ranking systems, food stock-taking system, cashier system, food ordering system
-------------------------------------------------------------------------------------------------------------------
-
-Systems Development Life Cycle consists of the following:  
-
-1. [Feasibility study and analysis](https://github.com/wangsiyang68/Coding-Pains/blob/master/Content%20Notes/Interacting%20with%20humans/FStudy%20and%20Analysis.md)  
-2. Design  
-3. [Documentation](https://github.com/wangsiyang68/Coding-Pains/blob/master/Content%20Notes/Interacting%20with%20humans/Documentation.md)  
-4. Programming  
-5. [Testing](https://github.com/wangsiyang68/Coding-Pains/blob/master/Content%20Notes/Interacting%20with%20humans/Testing.md)  
-6. Implementation  
-7. [Maintenance](https://github.com/wangsiyang68/Coding-Pains/blob/master/Content%20Notes/Interacting%20with%20humans/Maintenance.md)  
-
